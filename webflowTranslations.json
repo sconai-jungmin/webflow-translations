@@ -244,7 +244,12 @@
         "sconchat.apec.manual": "Curious about usage or pricing?",
         "sconchat.apec.manual.detail": "We’ll guide you through the best usage methods and pricing options based on your purpose and scale.",
         "sconchat.specific.need": "Whether it’s large-scale international events like APEC or everyday meeting rooms—if you need a tailored interpretation solution",
-        "sconchat.specific.need.detail": "From face-to-face meeting room interpretation to massive international event venues, we provide optimized solutions and full operational support for all interpretation environments."
+        "sconchat.specific.need.detail": "From face-to-face meeting room interpretation to massive international event venues, we provide optimized solutions and full operational support for all interpretation environments.",
+        "traffic.source.placeholder": "How did you hear about SconAI?",
+        "traffic.source.search": "Search",
+        "traffic.source.referral": "Referral",
+        "traffic.source.media": "Articles & Media",
+        "traffic.source.other": "Other"
     },
     "ko": {
         "header.menu.home": "홈",
@@ -491,7 +496,12 @@
         "sconchat.apec.manual": "사용 방법, 비용이 궁금하신가요?",
         "sconchat.apec.manual.detail": "사용 목적과 규모에 맞춰, 최적의 활용 방법과 비용을 안내해 드립니다.",
         "sconchat.specific.need": "APEC과 같은 대규모 국제 행사부터매일 사용하는 회의실 통역까지ㅡ꼭 맞춘 통역 솔루션이 필요하시다면",
-        "sconchat.specific.need.detail": "회의실의 대면 통역부터 초대형 국제 행사 현장까지, 통역이 필요한 모든 환경에 최적화된 솔루션과 운영 방안을 안내해 드리겠습니다."
+        "sconchat.specific.need.detail": "회의실의 대면 통역부터 초대형 국제 행사 현장까지, 통역이 필요한 모든 환경에 최적화된 솔루션과 운영 방안을 안내해 드리겠습니다.",
+        "traffic.source.placeholder": "SconAI를 어떻게 알게되셨나요?",
+        "traffic.source.search": "검색",
+        "traffic.source.referral": "지인 추천",
+        "traffic.source.media": "기사 및 미디어",
+        "traffic.source.other": "기타"
     },
     "ja": {
         "header.menu.home": "ホーム",
@@ -738,7 +748,12 @@
         "sconchat.apec.manual": "使い方や費用が気になりますか？",
         "sconchat.apec.manual.detail": "利用目的や規模に合わせて、最適な活用方法と費用をご案内します。",
         "sconchat.specific.need": "APECのような大規模国際イベントから日常の会議室通訳まで──最適化された通訳ソリューションが必要な方へ",
-        "sconchat.specific.need.detail": "会議室での対面通訳から大規模国際イベントの現場まで、通訳が必要なすべての環境に最適化されたソリューションと運用サポートをご提供します。"
+        "sconchat.specific.need.detail": "会議室での対面通訳から大規模国際イベントの現場まで、通訳が必要なすべての環境に最適化されたソリューションと運用サポートをご提供します。",
+        "traffic.source.placeholder": "SconAI をどのように知りましたか？",
+        "traffic.source.search": "検索",
+        "traffic.source.referral": "知人の紹介",
+        "traffic.source.media": "記事・メディア",
+        "traffic.source.other": "その他"
     },
     "zh": {
         "header.menu.home": "首页",
@@ -985,6 +1000,11 @@
         "sconchat.apec.manual": "想了解使用方式或费用吗？",
         "sconchat.apec.manual.detail": "我们将根据您的使用目的与规模，提供最合适的使用方式与费用指南。",
         "sconchat.specific.need": "从 APEC 这样的大型国际活动到日常会议室通译——若您需要定制化通译方案",
-        "sconchat.specific.need.detail": "无论是在会议室的面对面通译，还是大型国际活动现场，我们都能为所有需要通译的环境提供最佳解决方案与运营支持。"
+        "sconchat.specific.need.detail": "无论是在会议室的面对面通译，还是大型国际活动现场，我们都能为所有需要通译的环境提供最佳解决方案与运营支持。",
+        "traffic.source.placeholder": "您是如何了解到 SconAI 的？",
+        "traffic.source.search": "搜索",
+        "traffic.source.referral": "熟人推荐",
+        "traffic.source.media": "新闻与媒体",
+        "traffic.source.other": "其他"
     }
 }
