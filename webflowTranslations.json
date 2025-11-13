@@ -109,6 +109,8 @@
         "blog.title_vivatech_2025_파리한국관_stylish_korea에_전시미팅irmou써밋에_참여하였습니다": "SconAI Exhibits at VivaTech 2025 Paris Korean Pavilion “Stylish Korea” and Participates in IRMOU Summit",
         "blog.title_스콘에이아이가_스타트업_일본_시장_도전에_실시간_ai_통역을_지원하여_글로벌_비지니스를_위한_길을_엽니다": "SconAI Supports Real-Time AI Interpretation for Startups Entering the Japanese Market, Opening New Paths for Global Business",
         "blog.title_오사카간사이_엑스포_한국관에서_ai_통역_스콘챗을_공식적으로_도입하여_사용합니다": "Korea Pavilion at Osaka-Kansai Expo Officially Adopts SconChat for AI Real-Time Interpretation",
+        "blog.title_스콘에이아이_tips_선정_우수한_기술력과_가능성_공인": "SconAI selected for TIPS! Recognized for outstanding technology and potential",
+        "blog.title_제주_apec_글로벌_스타트업_소통의_연결고리_ai_통역_서비스_스콘챗": "AI interpretation service SconChat becomes the communication bridge for global startups at the APEC Jeju event",
         "sconchat.header.intro": "About SconChat",
         "sconchat.header.tech.level": "Technology",
         "sconchat.header.user.story": "User Stories",
@@ -362,6 +364,8 @@
         "blog.title_vivatech_2025_파리한국관_stylish_korea에_전시미팅irmou써밋에_참여하였습니다": "vivatech 2025 파리한국관 stylish korea에 전시미팅irmou써밋에 참여하였습니다",
         "blog.title_스콘에이아이가_스타트업_일본_시장_도전에_실시간_ai_통역을_지원하여_글로벌_비지니스를_위한_길을_엽니다": "스콘에이아이가 스타트업 일본 시장 도전에 실시간 ai 통역을 지원하여 글로벌 비지니스를 위한 길을 엽니다",
         "blog.title_오사카간사이_엑스포_한국관에서_ai_통역_스콘챗을_공식적으로_도입하여_사용합니다": "오사카간사이 엑스포 한국관에서 ai 통역 스콘챗을 공식적으로 도입하여 사용합니다",
+        "blog.title_스콘에이아이_tips_선정_우수한_기술력과_가능성_공인": "스콘에이아이 TIPS 선정! 우수한 기술력과 가능성 공인",
+        "blog.title_제주_apec_글로벌_스타트업_소통의_연결고리_ai_통역_서비스_스콘챗": "제주 APEC 글로벌 스타트업 소통의 연결고리, AI 통역 서비스 스콘챗",
         "sconchat.header.intro": "스콘챗 소개",
         "sconchat.header.tech.level": "기술력",
         "sconchat.header.user.story": "사용자 이야기",
@@ -756,7 +760,9 @@
         "traffic.source.행사.참가": "イベント参加",
         "traffic.source.지인.추천": "知人の紹介",
         "traffic.source.기사.및.미디어": "記事・メディア",
-        "traffic.source.기타": "その他"
+        "traffic.source.기타": "その他",
+        "blog.title_스콘에이아이_tips_선정_우수한_기술력과_가능성_공인": "SconAI、TIPSに選定！卓越した技術力と可能性が認められました",
+        "blog.title_제주_apec_글로벌_스타트업_소통의_연결고리_ai_통역_서비스_스콘챗": "APEC 済州イベントで、AI通訳サービス SconChat がグローバルスタートアップをつなぐ架け橋に"
     },
     "zh": {
         "header.menu.home": "首页",
@@ -868,7 +874,8 @@
         "blog.title_vivatech_2025_파리한국관_stylish_korea에_전시미팅irmou써밋에_참여하였습니다": "SconAI亮相巴黎VivaTech 2025韩国馆“Stylish Korea”，并参加IRMOU峰会",
         "blog.title_스콘에이아이가_스타트업_일본_시장_도전에_실시간_ai_통역을_지원하여_글로벌_비지니스를_위한_길을_엽니다": "SconAI为进军日本市场的初创企业提供实时AI同声传译，开启全球商业新路径",
         "blog.title_오사카간사이_엑스포_한국관에서_ai_통역_스콘챗을_공식적으로_도입하여_사용합니다": "大阪关西世博会韩国馆正式采用AI同声传译SconChat",
-        "sconchat.header.intro": "关于 SconChat",
+        "blog.title_스콘에이아이_tips_선정_우수한_기술력과_가능성_공인": "SconAI 入选 TIPS！卓越技术与潜力获得认可",
+        "blog.title_제주_apec_글로벌_스타트업_소통의_연결고리_ai_통역_서비스_스콘챗": "AI 口译服务 SconChat 成为 APEC 济州活动中连接全球初创企业的沟通纽带""sconchat.header.intro": "关于 SconChat",
         "sconchat.header.tech.level": "技术实力",
         "sconchat.header.user.story": "用户故事",
         "sconchat.header.pricing": "价格方案",
