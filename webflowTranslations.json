@@ -252,7 +252,8 @@
         "traffic.source.행사.참가": "Event Participation",
         "traffic.source.지인.추천": "Referral",
         "traffic.source.기사.및.미디어": "Articles & Media",
-        "traffic.source.기타": "Other"
+        "traffic.source.기타": "Other",
+        "blog.body_언어_장벽을_허무는_스콘챗의_글로벌_커뮤니케이션": "<p>At the APEC CEO Summit 2025, SconChat is providing AI-powered real-time simultaneous interpretation of speeches by world leaders, including U.S. President Donald Trump and Korean President Lee Jae-myung, helping to connect the world through APEC 2025. SconChat’s real-time interpretation is delivered to the international media center, on-site participants, and live broadcast channels. Today, the world needs smoother communication than ever before. APEC is a special platform that makes such conversations possible, and SconAI is deeply honored that its technology can contribute to this global discussion about the future.</p><p>Today, many heads of state and global leaders, including NVIDIA CEO Jensen Huang, are scheduled to give speeches envisioning cooperation and the future. SconAI will help facilitate this communication and contribute to building a better world. Our goal goes beyond simple language translation: through the power of AI, we aim to open a new era of communication in which people around the world can understand and trust one another. We sincerely thank everyone who supports our journey.</p>"
     },
     "ko": {
         "header.menu.home": "홈",
@@ -507,7 +508,8 @@
         "traffic.source.행사.참가": "행사 참가",
         "traffic.source.지인.추천": "지인 추천",
         "traffic.source.기사.및.미디어": "기사 및 미디어",
-        "traffic.source.기타": "기타"
+        "traffic.source.기타": "기타",
+        "blog.body_언어_장벽을_허무는_스콘챗의_글로벌_커뮤니케이션": "<p>APEC CEO Summit 2025에서 SconChat은 도널드 트럼프 미국 대통령과 이재명 대한민국 대통령을 비롯한 세계 정상들의 연설 AI 실시간 동시 통역 서비스를 제공하여 APEC 2025를 통해 세계를 연결하는 데 기여하고 있습니다. SconChat의 실시간 통역은 국제 미디어 센터, 현장 참가자, 그리고 생중계 채널에 제공됩니다. 오늘날 세계는 그 어느 때보다 원활한 소통을 필요로 하고 있습니다. APEC은 이러한 대화를 가능하게 하는 특별한 플랫폼이며, SconAI의 기술이 미래를 논의하는 이 글로벌 토론에 기여할 수 있게 되어 매우 영광입니다.</p><p>오늘 여러 국가 원수와 NVIDIA 젠슨 황 CEO를 비롯한 세계 지도자들이 협력과 미래를 구상하는 연설을 할 예정입니다. SconAI는 이러한 소통을 촉진하고 더 나은 세상을 만드는 데 기여할 것입니다. 우리의 목표는 단순한 언어 통역을 넘어, AI의 힘을 통해 전 세계 사람들이 서로를 이해하고 신뢰하는 새로운 소통의 시대를 여는 것입니다. 우리의 여정을 지지해주시는 모든 분들께 진심으로 감사드립니다.</p>"
     },
     "ja": {
         "header.menu.home": "ホーム",
@@ -762,7 +764,8 @@
         "traffic.source.기사.및.미디어": "記事・メディア",
         "traffic.source.기타": "その他",
         "blog.title_스콘에이아이_tips_선정_우수한_기술력과_가능성_공인": "SconAI、TIPSに選定！卓越した技術力と可能性が認められました",
-        "blog.title_제주_apec_글로벌_스타트업_소통의_연결고리_ai_통역_서비스_스콘챗": "APEC 済州イベントで、AI通訳サービス SconChat がグローバルスタートアップをつなぐ架け橋に"
+        "blog.title_제주_apec_글로벌_스타트업_소통의_연결고리_ai_통역_서비스_스콘챗": "APEC 済州イベントで、AI通訳サービス SconChat がグローバルスタートアップをつなぐ架け橋に",
+        "blog.body_언어_장벽을_허무는_스콘챗의_글로벌_커뮤니케이션": "<p>APEC CEO Summit 2025 では、SconChat がドナルド・トランプ米国大統領や李在明大韓民国大統領をはじめとする世界の首脳のスピーチを、AI によるリアルタイム同時通訳として提供し、APEC 2025 を通じて世界をつなぐ役割を担っています。SconChat のリアルタイム通訳は、国際メディアセンター、現地参加者、そして生中継チャンネルに提供されています。今日の世界は、これまで以上に円滑なコミュニケーションを必要としています。APEC はそのような対話を可能にする特別なプラットフォームであり、SconAI の技術が未来を語り合うこのグローバルな議論に貢献できることを大変光栄に思います。</p><p>本日も、多くの国家元首や NVIDIA のジェンスン・フアン CEO をはじめとする世界のリーダーたちが、協力と未来を構想するスピーチを行う予定です。SconAI は、こうしたコミュニケーションを促進し、より良い世界づくりに貢献していきます。私たちの目標は単なる言語翻訳を超え、AI の力を通じて世界中の人々が互いを理解し信頼できる、新しいコミュニケーションの時代を切り開くことです。この旅路を支えてくださるすべての皆さまに心より感謝申し上げます。</p>"
     },
     "zh": {
         "header.menu.home": "首页",
@@ -1017,6 +1020,7 @@
         "traffic.source.기사.및.미디어": "新闻与媒体",
         "traffic.source.기타": "其他",
         "blog.title_스콘에이아이_tips_선정_우수한_기술력과_가능성_공인": "SconAI 入选 TIPS！卓越技术与潜力获得认可",
-        "blog.title_제주_apec_글로벌_스타트업_소통의_연결고리_ai_통역_서비스_스콘챗": "AI 口译服务 SconChat 成为 APEC 济州活动中连接全球初创企业的沟通纽带"
+        "blog.title_제주_apec_글로벌_스타트업_소통의_연결고리_ai_통역_서비스_스콘챗": "AI 口译服务 SconChat 成为 APEC 济州活动中连接全球初创企业的沟通纽带",
+        "blog.body_언어_장벽을_허무는_스콘챗의_글로벌_커뮤니케이션": "<p>在 APEC CEO 峰会 2025 上，SconChat 为包括美国总统唐纳德·特朗普和大韩民国总统李在明在内的世界各国领导人的演讲提供 AI 实时同声传译，通过 APEC 2025 促进世界各地的紧密连接。SconChat 的实时口译服务被用于国际媒体中心、现场与会者以及直播频道。如今的世界比以往任何时候都更需要顺畅的沟通。APEC 是促成此类对话的特殊平台，我们也非常荣幸 SconAI 的技术能够为这场面向未来的全球性讨论作出贡献。</p><p>今天，多位国家元首和包括 NVIDIA 首席执行官黄仁勋在内的全球领袖将发表关于合作与未来的演讲。SconAI 将帮助促进这样的沟通，并为建设更美好的世界贡献力量。我们的目标不仅仅是语言翻译，而是希望借助 AI 的力量，开启一个让全世界的人彼此理解、彼此信任的全新沟通时代。衷心感谢一路支持我们旅程的每一位朋友。</p><p>查看原文文章</p>"
     }
 }
