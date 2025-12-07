@@ -1,6 +1,7 @@
 {
     "en": {
-        "sconai.home.header": "A new standard in AI interpretation",
+        "sconai.home.header1": "A new standard in",
+        "sconai.home.header2": "AI interpretation",
         "header.menu.home": "Home",
         "header.menu.news": "News",
         "header.menu.contact": "Contact",
@@ -279,7 +280,8 @@
         "news.back.to.list": "Back to news list"
     },
     "ko": {
-        "sconai.home.header": "AI 통역의 새로운 기준",
+        "sconai.home.header1": "AI 통역의",
+        "sconai.home.header2": "새로운 기준",
         "header.menu.home": "홈",
         "header.menu.news": "뉴스",
         "header.menu.contact": "문의하기",
@@ -558,7 +560,8 @@
         "news.back.to.list": "뉴스 리스트 보기"
     },
     "ja": {
-        "sconai.home.header": "AI通訳の新しい基準",
+        "sconai.home.header1": "AI通訳の",
+        "sconai.home.header2": "新しい基準",
         "header.menu.home": "ホーム",
         "header.menu.news": "ニュース",
         "header.menu.contact": "お問い合わせ",
@@ -837,7 +840,8 @@
         "news.back.to.list": "ニュース一覧へ戻る"
     },
     "zh": {
-        "sconai.home.header": "AI口译的新标准",
+        "sconai.home.header1": "AI口译的",
+        "sconai.home.header2": "新标准",
         "header.menu.home": "首页",
         "header.menu.news": "新闻",
         "header.menu.contact": "联系我们",
