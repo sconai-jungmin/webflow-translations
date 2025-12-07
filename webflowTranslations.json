@@ -1,7 +1,5 @@
 {
     "en": {
-        "sconai.home.header1": "A new standard in",
-        "sconai.home.header2": "AI interpretation",
         "header.menu.home": "Home",
         "header.menu.news": "News",
         "header.menu.contact": "Contact",
@@ -11,7 +9,9 @@
         "header.menu.login": "Login",
         "home.title.apec": "SconChat is enabling seamless communication at APEC 2025",
         "home.title.details": "Learn More",
-        "home.slogan": "We're building a world\nwithout language barriers",
+        "home.slogan": "A world without language barriers\nwhere everyone can connect freely",
+        "home.slogan2": "AI Interpretation",
+        "home.header": "Fast and accurate AI interpretation for business"
         "home.title.intro": "AI Interpretation Solution",
         "home.title.intro.detail": "Experience world-class accuracy and speed with SconAI’s AI simultaneous interpretation. Go beyond traditional voice translators and expand your global business with SconAI’s cutting-edge interpretation technology.",
         "home.button.sconchat": "Learn about SconChat",
@@ -280,8 +280,6 @@
         "news.back.to.list": "Back to news list"
     },
     "ko": {
-        "sconai.home.header1": "내언어로 말하고 듣고 읽는",
-        "sconai.home.header2": "AI 통역",
         "header.menu.home": "홈",
         "header.menu.news": "뉴스",
         "header.menu.contact": "문의하기",
@@ -291,7 +289,9 @@
         "header.menu.login": "로그인",
         "home.title.apec": "APEC 2025가 실시간 AI 통역 SconChat과 함께합니다",
         "home.title.details": "자세히 보기",
-        "home.slogan": "모두가 자유롭게 소통할 수 있는 \n언어 장벽 없는 세상을 만들어갑니다",
+        "home.slogan": "모두가 자유롭게 소통할 수 있는 \n언어 장벽 없는 세상",
+        "home.slogan2": "AI 통역",
+        "home.header": "빠르고 정확한 비즈니스형 AI 통역 솔루션",
         "home.title.intro": "AI 통역 솔루션",
         "home.title.intro.detail": "세계 최고 수준의 정확성과 속도를 갖춘 AI 동시 통역을 제공합니다. 기존 음성 입력 번역기와는 차원이 다른 SconAI의 통역 기술로 언어 장벽을 넘어 글로벌 비즈니스로의 확장을 도와줍니다.",
         "home.button.sconchat": "SconChat 알아보기",
@@ -560,8 +560,6 @@
         "news.back.to.list": "뉴스 리스트 보기"
     },
     "ja": {
-        "sconai.home.header1": "AI通訳の",
-        "sconai.home.header2": "新しい基準",
         "header.menu.home": "ホーム",
         "header.menu.news": "ニュース",
         "header.menu.contact": "お問い合わせ",
@@ -571,7 +569,9 @@
         "header.menu.login": "ログイン",
         "home.title.apec": "APEC 2025がリアルタイムAI通訳SconChatと提携",
         "home.title.details": "詳しく見る",
-        "home.slogan": "誰もが自由にコミュニケーションできる言語の壁のない世界を築いています。",
+        "home.slogan": "誰もが自由に繋がれる\n言語の壁のない世界へ",
+        "home.slogan2": "AI通訳",
+        "home.header": "スピーディで正確なビジネス向けAI通訳"
         "home.title.intro": "AI通訳ソリューション",
         "home.title.intro.detail": "世界最高水準の正確性とスピードを備えたAI同時通訳を提供します。従来の音声入力型翻訳機とは一線を画すSconAIの通訳技術で、言語の壁を越え、グローバルビジネスの拡大を支援します。",
         "home.button.sconchat": "SconChat を知る",
@@ -840,8 +840,6 @@
         "news.back.to.list": "ニュース一覧へ戻る"
     },
     "zh": {
-        "sconai.home.header1": "AI口译的",
-        "sconai.home.header2": "新标准",
         "header.menu.home": "首页",
         "header.menu.news": "新闻",
         "header.menu.contact": "联系我们",
@@ -851,7 +849,9 @@
         "header.menu.login": "登录",
         "home.title.apec": "APEC 2025 携手 SconChat 实现实时 AI 口译",
         "home.title.details": "了解更多",
-        "home.slogan": "口译技术打造一个人人都能自由沟通没有语言障碍的世界。",
+        "home.slogan": "人人自由交流的\n无语言障碍的世界",
+        "home.slogan2": "AI翻译",
+        "home.header": "快速精准的商务AI翻译方案"
         "home.title.intro": "AI 口译解决方案",
         "home.title.intro.detail": "我们提供具备世界顶级准确度和速度的 AI 同声传译。凭借 SconAI 独有的口译技术，突破传统语音翻译器的限制，跨越语言障碍，助力企业拓展全球业务。",
         "home.button.sconchat": "了解 SconChat",
