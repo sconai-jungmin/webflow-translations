@@ -277,6 +277,7 @@
         "traffic.source.지인.추천": "Referral",
         "traffic.source.기사.및.미디어": "Articles & Media",
         "traffic.source.기타": "Other",
+        "news.view.article": "View full article",
         "news.back.to.list": "Back to news list"
     },
     "ko": {
@@ -557,6 +558,7 @@
         "traffic.source.지인.추천": "지인 추천",
         "traffic.source.기사.및.미디어": "기사 및 미디어",
         "traffic.source.기타": "기타",
+        "news.view.article": "기사 원문 보기",
         "news.back.to.list": "뉴스 리스트 보기"
     },
     "ja": {
@@ -837,6 +839,7 @@
         "traffic.source.지인.추천": "知人の紹介",
         "traffic.source.기사.및.미디어": "記事・メディア",
         "traffic.source.기타": "その他",
+        "news.view.article": "記事全文を見る",
         "news.back.to.list": "ニュース一覧へ戻る"
     },
     "zh": {
@@ -1118,6 +1121,7 @@
         "traffic.source.지인.추천": "熟人推荐",
         "traffic.source.기사.및.미디어": "新闻与媒体",
         "traffic.source.기타": "其他",
+        "news.view.article": "查看文章原文",
         "news.back.to.list": "返回新闻列表"
     }
 }
