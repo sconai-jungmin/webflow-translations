@@ -65,6 +65,12 @@
         "ko": "<p style='margin-bottom:16px;'>한양대 창업지원단은 11일부터 14일까지 프랑스 파리에서 열린 유럽 최대 규모 기술 전시회 ‘비바테크놀로지 2025’에 참여했다고 밝혔습니다. 본 참가는 중소벤처기업부 창업중심대학 사업의 일환으로 이뤄졌으며, 사전 평가를 거쳐 스콘에이아이(SconAI, 인공지능 실시간 동시통역 서비스), 아이핀랩스, 엘포박스, 에이치엠비, 에이제이투, 휴젝트 등 6개 기업이 최종 선정되었습니다.</p><p style='margin-bottom:16px;'>선정 기업들은 한국 공동관 ‘Stylish Korea’에서 전시 부스를 운영하며 글로벌 바이어와 투자자들과의 비즈니스 미팅, 현장 IR 피칭에 참여했습니다. 한양대 창업지원단은 전시를 현지 실증(PoC), 투자 상담, MOU 체결 등 실질적 성과 중심으로 운영했습니다. 또한 10일 열린 ‘한-불 오픈이노베이션 써밋’에서도 일부 기업이 기술력을 소개하며 글로벌 협력 가능성을 모색했습니다.</p>",
         "zh": "<p style='margin-bottom:16px;'>汉阳大学创业支援团宣布，于 11 日至 14 日参加了在法国巴黎举办的欧洲最大规模科技展会“Viva Technology 2025”。此次参展是中小风险企业部创业中心大学项目的一环，经过事前评审，共有 6 家企业最终入选，包括 SconAI（AI 实时同声传译服务）、IPIN Labs、L4Box、HMB、AJ2 和 Hject。</p><p style='margin-bottom:16px;'>入选企业在韩国联合馆“Stylish Korea”运营展示展位，与全球买家和投资者进行商务洽谈，并参与现场 IR 路演。汉阳大学创业支援团将展会重点放在当地 PoC（概念验证）、投资咨询、MOU 签署等实际成果上。</p><p>此外，在 10 日举行的“韩法开放式创新峰会”中，也有部分企业展示了自身技术，探索全球合作的可能性。</p>"
     },
+    "blog.body_스콘에이아이_apec에_ai_동시통역_스콘챗_전면_도입": {
+        "en": "SconAI’s AI simultaneous interpretation service, “SconChat,” was fully deployed across all sessions—including keynote speeches by world leaders—as well as individual networking venues at the APEC CEO Summit 2025. SconChat is an AI-powered simultaneous interpretation service that recognizes a speaker’s voice in real time and delivers interpretation within an average latency of 1.2 seconds. By accurately reproducing each speaker’s unique vocal characteristics on site, the service provided a vivid experience that felt “less like listening to a machine and more like hearing a human interpreter.”\n\nGong Jeong-il, CEO of SconAI, stated, “We live in an era where dialogue is more important than ever, and it is deeply meaningful for us to contribute our technology at APEC—a forum where global leaders gather to discuss the future. Our goal goes beyond simply translating languages; we aim to open a new era of communication where people can better understand one another and build trust through AI.”",
+        "ko": "스콘에이아이의 AI 동시통역 서비스 '스콘챗 (SconChat)'이 APEC CEO Summit 2025에서 주요국 정상들의 연설을 포함한 전 세션과 개별 네트워킹 현장에 전면 도입되었습니다. 스콘챗은 발언자의 음성을 실시간으로 인식한 뒤, 평균 1.2초 이내의 통역을 제공하는 AI 동시통역 서비스로 현장에서 연사의 발화 특성까지 재현하여 '기계가 아닌 사람의 통역을 듣는 듯한' 생생한 경험을 제공했습니다.\n\n공정일 스콘에이아이 대표는 \"지금 세계는 그 어느 때보다 대화가 필요한 시대이며, 각국 정상들이 모여 미래를 논하는 APEC에서 스콘에이아이의 기술이 기여할 수 있어 큰 보람을 느낍니다. 우리의 목표는 단순히 언어를 번역하는 것을 넘어, AI를 통해 서로를 이해하고 신뢰를 쌓는 새로운 커뮤니케이션의 시대를 여는 것입니다.\"라고 전했습니다.",
+        "ja": "スコンエイアイのAI同時通訳サービス「スコンチャット（SconChat）」が、APEC CEOサミット2025において、各国首脳のスピーチを含む全セッションおよび個別ネットワーキングの現場に全面導入されました。スコンチャットは、話者の音声をリアルタイムで認識し、平均1.2秒以内に通訳を提供するAI同時通訳サービスです。会場では話者ごとの発話特性まで忠実に再現し、「機械ではなく人の通訳を聞いているかのような」臨場感あふれる体験を提供しました。\n\nスコンエイアイのコン・ジョンイル代表は、「今の世界はこれまで以上に対話が求められる時代です。各国のリーダーが集い未来を議論するAPECの場で、スコンエイアイの技術が貢献できたことを大変誇りに思います。私たちの目標は単なる言語翻訳にとどまらず、AIを通じて相互理解と信頼を築く、新しいコミュニケーションの時代を切り拓くことです」と述べました。",
+        "zh": "SconAI 的 AI 同声传译服务“SconChat”已在 APEC CEO 峰会 2025 上实现全面部署，涵盖包括多国领导人演讲在内的所有会议环节，以及各类一对一和小型交流的现场。SconChat 是一项能够实时识别发言者语音、并在平均 1.2 秒内完成翻译的 AI 同声传译服务。该服务在现场精准还原了演讲者的发声特征，为与会者带来了“仿佛在聆听人类译员，而非机器翻译”的沉浸式体验。\n\nSconAI 首席执行官孔正一表示：“当今世界比以往任何时候都更需要对话。在各国领导人齐聚一堂、共同探讨未来的 APEC 平台上，能够让 SconAI 的技术发挥作用，我们深感荣幸。我们的目标不仅仅是语言翻译，更是通过 AI 开启一个促进相互理解与信任的全新沟通时代。”"
+    },
     "blog.title_ai_동시_통역_스콘챗이_apec_정상들과_글로벌_리더들의_대화를_하나로_잇습니다": {
         "en": "AI Real-Time Interpreter SconChat Bridges Conversations Between APEC Leaders and Global Executives",
         "ja": "AI同時通訳SconChatがAPEC首脳とグローバルリーダーの対話をつなぐ",
@@ -196,6 +202,12 @@
         "ja": "SconAIがパリのVivaTech 2025で韓国館ブースを運営",
         "ko": "파리에서 만난 스콘에이아이 vivatech 2025 한국관 부스 운영",
         "zh": "SconAI亮相巴黎VivaTech 2025，运营韩国馆展位"
+    },
+    "blog.title_스콘에이아이_apec에_ai_동시통역_스콘챗_전면_도입": {
+        "en": "SconAI Fully Implements ‘SconChat’ AI Interpretation at APEC",
+        "ko": "스콘에이아이, APEC에 AI 동시통역 ‘스콘챗’ 전면 도입",
+        "ja": "スコンAI、APECにてAI同時通訳「スコンチャット」を全面導入",
+        "zh": "SconAI在APEC全面启用AI同声传译“SconChat”"
     },
     "contact.any.question": {
         "en": "Start a language barrier-free business with SconAI. If you have any questions, feel free to contact us anytime.",
