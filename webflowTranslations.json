@@ -506,7 +506,7 @@
         "sconchat.company.o": "O사",
         "sconchat.natural.flow": "대화의 흐름을 살려 문맥까지 자연스럽고 매끄럽게",
         "sconchat.natural.interpretation": "문맥을 이해하는 \n자연스러운 통역",
-        "sconchat.natural.interpretation.detail": "대화의 흐름을 살려 문맥까지 자연스럽고 매끄럽게 통역합니다. 여러 문장 성분이 생략된 짤은 문장에서도 앞뒤 문맥을 이어주는 정확하고 자연스러운 통역을 제공합니다.",
+        "sconchat.natural.interpretation.detail": "대화의 흐름을 살려 문맥까지 자연스럽고 매끄럽게 통역합니다. 여러 문장 성분이 생략된 짧은 문장에서도 앞뒤 문맥을 이어주는 정확하고 자연스러운 통역을 제공합니다.",
         "sconchat.no.tweak.stop.hat": "말만 하면 바로 통역따로 손댈 필요 없는 연속 대화",
         "sconchat.no.tweak.stop.head": "조작이 필요없는‍\n자동 연속 대화 통역",
         "sconchat.no.tweak.stop.body": "통역 중에 버튼을 누르거나 디바이스를 조작할 필요가 없습니다. 스콘챗의 자동 연속 통역 기술은 말을 시작하면 즉시 정확하고 빠르게 통역합니다.",
