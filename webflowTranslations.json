@@ -798,10 +798,10 @@
         "zh": "注册邮箱即可第一时间收到 SconChat 在线服务上线通知，并获取通译体验优惠券。"
     },
     "sconchat.begin.interpreting": {
-        "en": "Start Interpreting",
-        "ja": "通訳を開始",
-        "ko": "통역 시작하기",
-        "zh": "开始通译"
+        "ko": "SconChat 시작하기",
+        "en": "Start SconChat",
+        "zh": "启动 SconChat",
+        "ja": "SconChat開始"
     },
     "sconchat.book.demo": {
         "en": "Book a Demo",
