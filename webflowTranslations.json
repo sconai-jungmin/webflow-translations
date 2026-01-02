@@ -672,11 +672,11 @@
         "zh": "丰富的经验"
     },
     "sconai.tablet.rich.experience.detail": {
-        "en": "SconAI’s team is composed of top-level experts from leading tech companies with strong experience in AI development and large-scale traffic operations.",
-        "ja": "SconAIはトップレベルのテック企業出身者で構成され、AI技術開発と大規模トラフィック運用の豊富な経験を持っています。",
-        "ko": "SconAI는 최고 수준의 테크 기업 출신들로 구성되어 AI 기술 개발과 대량 트래픽 운영 경험을 보유하고 있습니다.",
-        "zh": "SconAI 团队由顶级科技企业出身的专家组成，拥有丰富的 AI 技术开发与大规模流量运营经验。"
-    },
+        "ko": "SconAI는 최고 수준의 테크 기업 출신들로 구성되어 AI R&D부터 대량 트래픽 서비스 개발/운영까지 전 분야에 우수한 경험을 가지고 있습니다.",
+        "en": "SconAI is built by top-tier tech experts with proven experience in AI R&D and large-scale service development and operations.",
+        "zh": "SconAI由顶尖科技公司出身的专家组成，拥有从AI研发到高并发服务开发与运营的丰富经验。",
+        "ja": "SconAIは一流テック企業出身のメンバーで構成され、AIの研究開発から大規模トラフィックのサービス開発・運用まで豊富な経験を有しています。"
+        },
     "sconchat.3.x": {
         "en": "3×",
         "ja": "3倍",
