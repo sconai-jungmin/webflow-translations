@@ -420,16 +420,16 @@
         "ja": "世界中のさまざまな分野のパートナーが、SconAIと共にビジネスを広げています。"
         },
     "home.slogan": {
-        "en": "Don't let language limits\nbe your business limits\nExpand your business beyond language barriers with SconAI",
-        "ja": "言葉の壁がビジネスの限界にならないように。\nSconAIと共に言語の壁を越えてビジネスを広げましょう。",
-        "ko": "언어의 한계가\n 비즈니스의 한계가 되지 않도록 \nSconAI와 함께 언어 장벽을 넘어 비즈니스를 확장하세요",
-        "zh": "别让语言成为业务的限制。\n与SconAI一起跨越语言障碍，拓展您的业务。"
+        "en": "Don't let language limits\nbe your business limits",
+        "ja": "言葉の壁がビジネスの限界にならないように。",
+        "ko": "언어의 한계가\n 비즈니스의 한계가 되지 않도록",
+        "zh": "别让语言成为业务的限制。"
     },
     "home.slogan2": {
-        "en": "AI Interpretation",
-        "ja": "AI通訳",
-        "ko": "AI 통역",
-        "zh": "AI翻译"
+        "en": "Expand your business beyond language barriers with SconAI",
+        "ja": "SconAIと共に言語の壁を越えてビジネスを広げましょう。",
+        "ko": "SconAI와 함께 언어 장벽을 넘어 비즈니스를 확장하세요",
+        "zh": "与SconAI一起跨越语言障碍，拓展您的业务。"
     },
     "home.title.apec": {
         "ko": "APEC 2025에서 SconChat이 각국 정상, 비즈니스 리더들에게 언어장벽 없는 소통을 제공했습니다.",
