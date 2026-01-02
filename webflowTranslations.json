@@ -660,10 +660,10 @@
         "zh": "获得世界认可的技术实力"
     },
     "sconai.tablet.recognition.detail": {
-        "en": "SconAI’s technology has been published in top-tier AI conferences such as NeurIPS and ICML, cited over 3,700 times, and is utilized by global companies like Google and Meta.",
-        "ja": "SconAIの技術はNeurIPS・ICMLなどのAIトップ会議で発表され、3700回以上引用され、GoogleやMetaなどのグローバル企業にも活用されています。",
-        "ko": "SconAI 기술은 NeurIPS · ICML 등 AI Top-Tier 학회에 게재,  3700회 이상 인용되어 Google · Meta등 글로벌 기업이 활용하고 있습니다.",
-        "zh": "SconAI 的技术已发表在 NeurIPS、ICML 等顶级 AI 学术会议上，被引用超过 3700 次，并被 Google、Meta 等全球企业采用。"
+        "en": "SconAI’s technology has been published in top-tier AI conferences such as NeurIPS and ICML, cited over 5000 times, and is utilized by global companies like Google and Meta.",
+        "ja": "SconAIの技術はNeurIPS・ICMLなどのAIトップ会議で発表され、5000回以上引用され、GoogleやMetaなどのグローバル企業にも活用されています。",
+        "ko": "SconAI 기술은 NeurIPS · ICML 등 AI Top-Tier 학회에 게재,  5000회 이상 인용되어 Google · Meta등 글로벌 기업이 활용하고 있습니다.",
+        "zh": "SconAI 的技术已发表在 NeurIPS、ICML 等顶级 AI 学术会议上，被引用超过 5000 次，并被 Google、Meta 等全球企业采用。"
     },
     "sconai.tablet.rich.experience": {
         "en": "Extensive Experience",
