@@ -516,11 +516,11 @@
         "zh": "SconAI 凭借世界顶级的 AI 口译技术和全球发展潜力，成功入选 TIPS 项目。"
     },
     "news.various.events": {
-        "en": "SconAI is actively providing interpretation at various events around the world. Check out the latest news and updates at a glance.",
-        "ja": "SconAIは現在もさまざまな現場で通訳を行っています。最新ニュースとアップデートを一目で確認してください。",
-        "ko": "Scon AI는 지금도 다양한 현장에서 통역 중입니다. 새로운 소식과 업데이트를 한눈에 확인해보세요.",
-        "zh": "SconAI 目前正在多个现场提供口译服务。立即查看最新消息与更新内容。"
-    },
+        "ko": "지금도 전 세계의 소통을 잇고 있는 SconAI의 최신 뉴스를 전해드립니다.",
+        "en": "Here’s the latest news from SconAI, connecting conversations around the world.",
+        "zh": "持续连接全球沟通的SconAI，最新动态现已发布。",
+        "ja": "今も世界中の会話をつなぐSconAIの最新情報をお届けします。"
+        },
     "news.view.article": {
         "en": "View full article",
         "ja": "記事全文を見る",
