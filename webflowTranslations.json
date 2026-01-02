@@ -216,11 +216,11 @@
         "zh": "SconAI在APEC全面启用AI同声传译“SconChat”"
     },
     "contact.any.question": {
-        "en": "Start a language barrier-free business with SconAI. If you have any questions, feel free to contact us anytime.",
-        "ja": "SconAIと共に、言語の壁のないビジネスを始めましょう。ご不明な点がありましたら、いつでもお気軽にお問い合わせください。",
-        "ko": "SconAI와 함께 언어 장벽 없는 비즈니스를 시작하세요. 궁금하신 점은 언제든지 편하게 문의해 주세요.",
-        "zh": "与 SconAI 一起开启无语言障碍的商业合作。如有任何疑问，欢迎随时联系我们。"
-    },
+        "ko": "SconAI는 언제나 열려 있습니다. 서비스 도입이나 협업에 관해 궁금한 점이 있으시다면 언제든 편하게 문의해 주십시오.",
+        "en": "SconAI is always open. Feel free to contact us anytime about service integration or collaboration.",
+        "zh": "SconAI始终欢迎您的联系。如有关于服务接入或合作的疑问，欢迎随时咨询。",
+        "ja": "SconAIはいつでも皆さまをお待ちしています。導入や連携についてのご相談は、お気軽にお問い合わせください。"
+        },
     "contact.form.how.acquainted": {
         "en": "How You Found Us",
         "ja": "流入経路",
