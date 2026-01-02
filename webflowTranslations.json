@@ -15,7 +15,7 @@
         "en": "<p style='margin-bottom:16px;'>SconAI participated in the Korea Technology Finance Corporation’s accelerator program ‘Kibo Venture Camp’ and won the grand prize at the individual demo day hosted by accelerator Tap Angel Partners. Based on this achievement, SconAI advanced to the 16th Integrated Demo Day of Kibo Venture Camp, strengthening its foundation for growth through mentoring from Tap Angel Partners and guarantee support from Kibo.</p><p style='margin-bottom:16px;'>SconAI aims to build an AI interpretation system that understands speech characteristics, context, and even emotions, with a vision to secure a strong position in the global interpretation market valued at 40 trillion KRW. Companies selected for Kibo Venture Camp can receive up to 1.5 billion KRW in guarantee limits, private investment attraction support, R&D assistance, technology transfer, management consulting, and a wide range of financial and non-financial support.</p>",
         "ja": "<p style='margin-bottom:16px;'>SconAIは、技術保証基金（Kibo）が運営するアクセラレーションプログラム「Kibo Venture Camp」に参加し、アクセラレーターTap Angel Partnersが主催した個別デモデーで大賞を受賞しました。この成果を基に、第16期Kibo Venture Camp統合デモデーに進出し、Tap Angel PartnersのメンタリングとKiboの保証支援を受けながら成長基盤を築きました。</p><p style='margin-bottom:16px;'>SconAIは、発話の特徴や文脈、さらには感情まで理解するAI通訳を目指しており、40兆ウォン規模のグローバル通訳市場で確固たる地位を築くというビジョンを示しています。Kibo Venture Campに選定された企業は、最大15億ウォンの保証限度、民間投資誘致、R&D支援、技術移転、経営コンサルティングなど、多様な金融・非金融支援を受けることができます。</p>",
         "ko": "<p style='margin-bottom:16px;'>스콘에이아이가 기술보증기금의 액셀러레이팅 프로그램 ‘기보벤처캠프’에 참여해 액셀러레이터 탭엔젤파트너스의 개별 데모데이에서 대상을 수상했습니다. 이 성과를 바탕으로 기보벤처캠프 제16기 통합데모데이에 진출했으며, 탭엔젤파트너스의 멘토링과 기보의 보증 지원을 받으며 성장 기반을 다졌습니다.</p><p style='margin-bottom:16px;'>스콘에이아이는 발화 특성과 맥락, 감정까지 이해하는 AI 통역을 목표로 하며, 40조 원 규모의 글로벌 통역 시장에서 자리 잡겠다는 비전을 밝혔습니다. 기보벤처캠프 선정 기업은 최대 15억 원 보증 한도, 민간 투자 유치, R&D, 기술 이전, 경영 컨설팅 등 다양한 금융·비금융 지원을 받을 수 있습니다.</p>",
-        "zh": "<p style='margin-bottom:16px;'>SconAI 参与了韩国技术保证基金（Kibo）运营的加速项目 “Venture Camp”，并在加速器 Tap Angel Partners 举办的个人 Demo Day 中荣获大奖。凭借这一成绩，SconAI 晋级第 16 期 Venture Camp 综合 Demo Day，并在 Tap Angel Partners 的指导和 Kibo 的担保支持下夯实了成长基础。</p><p style='margin-bottom:16px;'>SconAI 的目标是打造能够理解发话特征、语境，甚至情感的 AI 口译系统，并表达了在规模达 40 万亿韩元的全球口译市场中占据一席之地的愿景。</p><p>被选入 Venture Camp 的企业可获得最高 15 亿韩元的担保额度、民间投资引导、研发支持、技术转移、经营咨询等多种金融与非金融支援。</p>"
+        "zh": "<p style='margin-bottom:16px;'>SconAI 参与了韩国技术保证基무金（Kibo）运营的加速项目 “Venture Camp”，并在加速器 Tap Angel Partners 举办的个人 Demo Day 中荣获大奖。凭借这一成绩，SconAI 晋级第 16 期 Venture Camp 综合 Demo Day，并在 Tap Angel Partners 的指导和 Kibo 的担保支持下夯实了成长基础。</p><p style='margin-bottom:16px;'>SconAI 的目标是打造能够理解发话特征、语境，甚至情感的 AI 口译系统，并表达了在规模达 40 万亿韩元的全球口译市场中占据一席之地的愿景。</p><p>被选入 Venture Camp 的企业可获得最高 15 亿韩元的担保额度、民间投资引导、研发支持、技术转移、经营咨询等多种金融与非金融支援。</p>"
     },
     "blog.body_스콘에이아이_55대_1_경쟁률_뚫고_한투ac_바른동행_7기_최종_선정": {
         "en": "<p style='margin-bottom:16px;'>Korea Investment Accelerator (Korea Investment AC, CEO Baek Yeo-hyun) has selected 11 startups for its ‘Bareun Donghaeng Cohort 7’ acceleration program and officially launched the new batch. Nearly 600 startups applied, recording a competition rate of 55:1. The final selected companies include: ▲Eskimo ▲SconAI ▲Datum ▲NanoRatis ▲WaveShineTech ▲CircleO ▲Pixel ▲NewLook ▲Fixup ▲Mandnda ▲EightStudio.</p><p style='margin-bottom:16px;'>The selected teams are pursuing innovation across various sectors such as generative AI, digital healthcare, sustainable materials, and global platforms. Notably, Eskimo, SconAI, and Datum were recognized as leading companies reshaping the productivity tools market through AI agent and LLM-based SaaS solutions. NanoRatis, WaveShineTech, and CircleO were acknowledged for overcoming technological barriers in deep-tech domains based on advanced materials and sensor technology. Pixel, NewLook, and Fixup are gaining global traction in content, F&B, and healthcare sectors, with export expansion and overseas demand pointing to strong future growth.</p>",
@@ -1578,11 +1578,11 @@
         "zh": "使用 SconChat 与不同语言的人们沟通交流。通过市场与知识的扩展，帮助企业在全球市场实现无限可能。"
     },
     "tablet.expertise": {
-        "en": "Specialized Domain Interpretation",
-        "ja": "専門分野特化の通訳",
-        "ko": "전문 분야 특화 통역",
-        "zh": "面向专业领域的专属口译"
-    },
+        "ko": "전문 분야 통역",
+        "en": "Expert field interpreting",
+        "zh": "专业领域口译",
+        "ja": "専門分野の通訳"
+        },
     "tablet.expertise.detail": {
         "en": "Understands technical terms and context to accurately interpret in specialized fields such as medicine, economics, and education.",
         "ja": "専門用語や文脈を幅広く理解し、医療・経済・教育など複雑な専門分野でも正確に通訳します。",
