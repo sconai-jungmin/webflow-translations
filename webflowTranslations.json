@@ -456,11 +456,11 @@
         "zh": "AI 口译解决方案"
     },
     "home.title.intro.detail": {
-        "en": "Experience world-class accuracy and speed with SconAI’s AI simultaneous interpretation. Go beyond traditional voice translators and expand your global business with SconAI’s cutting-edge interpretation technology.",
-        "ja": "世界最高水準の正確性とスピードを備えたAI同時通訳を提供します。従来の音声入力型翻訳機とは一線を画すSconAIの通訳技術で、言語の壁を越え、グローバルビジネスの拡大を支援します。",
-        "ko": "세계 최고 수준의 정확성과 속도를 갖춘 AI 동시 통역을 제공합니다. 기존 음성 입력 번역기와는 차원이 다른 SconAI의 통역 기술로 언어 장벽을 넘어 글로벌 비즈니스로의 확장을 도와줍니다.",
-        "zh": "我们提供具备世界顶级准确度和速度的 AI 同声传译。凭借 SconAI 独有的口译技术，突破传统语音翻译器的限制，跨越语言障碍，助力企业拓展全球业务。"
-    },
+        "ko": "세계 최고 수준의 정확도와 속도로 AI 동시 통역을 제공합니다.\n기존과 차원이 다른 SconAI의 통역 기술로 언어 장벽을 넘어 글로벌로 비즈니스를 확장하세요.",
+        "en": "Experience AI interpretation with world-class accuracy and speed.\nBreak language barriers and scale globally with SconAI’s next-level technology.",
+        "zh": "以世界顶级的准确率与速度，提供AI同声传译服务。\n借助SconAI革新级的翻译技术，跨越语言障碍，拓展全球业务。",
+        "ja": "世界最高水準の正確さとスピードでAI同時通訳を提供します。\n従来とは一線を画すSconAIの通訳技術で、言語の壁を越え、ビジネスをグローバルに広げましょう。"
+},
     "news.apec.jeju0917": {
         "en": "AI Interpretation Service SconChat Connects Global Startups at APEC Jeju Event",
         "ja": "APEC済州イベントでグローバルスタートアップをつなぐAI通訳サービス『SconChat』",
