@@ -396,10 +396,10 @@
         "zh": "了解 SconChat"
     },
     "home.header": {
-        "en": "Business-ready AI interpretation with world-class speed and accuracy",
-        "ja": "世界最高水準の速度と精度を備えたビジネス特化型AI同時通訳",
-        "ko": "세계 최고 수준의 정확성과 속도를 갖춘 비즈니스 맞춤형 AI 동시 통역 서비스",
-        "zh": "具备世界顶级速度与准确率的商务定制AI同声传译服务"
+        "en": "AI interpretation with world-class accuracy and speed",
+        "ja": "世界最高水準の正確さとスピードを誇るAI同時通訳サービス",
+        "ko": "세계 최고 수준의 정확도와 속도를 갖춘 AI 동시 통역서비스",
+        "zh": "具备世界顶级准确率和速度的AI同声传译服务"
     },
     "home.help.world.business": {
         "en": "Helping Businesses Reach the World",
