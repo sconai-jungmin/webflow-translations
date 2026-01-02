@@ -1608,11 +1608,12 @@
         "ja": "強力な文脈把握 · 一貫性のある出力"
 },
     "tablet.maintain.context.detail": {
-        "en": "Even in fast-paced conversations with short sentences, SconChat maintains context for accurate interpretation.",
-        "ja": "短文が頻繁に入力される状況でも会話の文脈を維持し、正確に通訳します。",
-        "ko": "짧은 문장이 빈번하게 입력되는 조건에서도 대화의 문맥을 유지하여 정확한 통역을 제공합니다.",
-        "zh": "即使在频繁输入短句的情况下，也能保持对话语境并提供精准口译。"
-    },
+        "ko": "정교하게 문맥을 파악하고 일관성을 유지하여, 정확하고 이해하기 쉬운 통역을 제공합니다.",
+        "en": "We capture context precisely and maintain consistency to deliver accurate, easy-to-understand interpretation.",
+        "zh": "精确把握语境，保持表达一致，提供准确易懂的口译服务。",
+        "ja": "文脈を正確に捉え、一貫性を保つことで、分かりやすく正確な通訳を実現します。"
+        }
+,
     "tablet.multi.lateral.lingual": {
         "en": "Multilateral · Multilingual Simultaneous Interpretation",
         "ja": "多者・多言語同時通訳",
