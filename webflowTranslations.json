@@ -432,11 +432,11 @@
         "zh": "AI翻译"
     },
     "home.title.apec": {
-        "en": "SconChat is enabling\nseamless communication at APEC 2025",
-        "ja": "APEC 2025がリアルタイム\nAI通訳SconChatと提携",
-        "ko": "APEC 2025가 실시간 AI 통역\nSconChat과 함께합니다",
-        "zh": "APEC 2025 携手\nSconChat 实现实时 AI 口译"
-    },
+        "ko": "APEC 2025에서 SconChat이 각국 정상, 비즈니스 리더들에게 언어장벽 없는 소통을 제공했습니다.",
+        "en": "At APEC 2025, SconChat enabled seamless communication for business executives and leaders.",
+        "ja": "APEC 2025で、SconChatは各国の首脳やビジネスリーダーに言語の壁のないコミュニケーションを提供しました。",
+        "zh": "在APEC 2025，SconChat为各国领导人和商业领袖提供了无语言障碍的交流体验。"
+},
     "home.title.business": {
         "en": "AI interpretation service ready for various business situations",
         "ja": "さまざまなビジネスシーンですぐに使えるAI同時通訳サービス",
