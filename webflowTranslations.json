@@ -1602,11 +1602,11 @@
         "zh": "以超越全球科技巨头的准确率和速度提供世界领先的口译体验。"
     },
     "tablet.maintain.context": {
-        "en": "Context-Preserving Interpretation",
-        "ja": "文脈を維持する通訳",
-        "ko": "문맥 일관성 유지 통역",
-        "zh": "保持语境一致的口译"
-    },
+        "ko": "강력한 문맥 포착 · 일관성 유지",
+        "en": "Powerful context consistency",
+        "zh": "强大的语境理解 · 保持一致性",
+        "ja": "強力な文脈把握 · 一貫性のある出力"
+},
     "tablet.maintain.context.detail": {
         "en": "Even in fast-paced conversations with short sentences, SconChat maintains context for accurate interpretation.",
         "ja": "短文が頻繁に入力される状況でも会話の文脈を維持し、正確に通訳します。",
