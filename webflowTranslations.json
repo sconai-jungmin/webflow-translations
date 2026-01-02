@@ -1584,11 +1584,11 @@
         "ja": "専門分野の通訳"
         },
     "tablet.expertise.detail": {
-        "en": "Understands technical terms and context to accurately interpret in specialized fields such as medicine, economics, and education.",
-        "ja": "専門用語や文脈を幅広く理解し、医療・経済・教育など複雑な専門分野でも正確に通訳します。",
-        "ko": "전문 용어와 맥락까지 폭넓게 이해하여 의료, 경제, 교육처럼 복잡한 전문 분야도 정확하게 통역합니다.",
-        "zh": "深刻理解专业术语与语境，能准确口译医疗、经济、教育等复杂的专业领域内容。"
-    },
+        "ko": "전문 용어와 맥락을 정확하게 이해하여, 금융, 법률, 학술, 의료 등 깊이 있는 전문 분야도 정확한 통역을 제공합니다.",
+        "en": "We understand terminology and context to deliver accurate interpretation in fields like finance, law, academia, and healthcare.",
+        "zh": "精准理解术语与语境，覆盖金融、法律、学术、医疗等专业领域，提供高质量口译。",
+        "ja": "専門用語と文脈を的確に捉え、金融・法律・学術・医療などの分野でも正確な通訳を提供します。"
+        },
     "tablet.fastest": {
         "en": "World-Class Accuracy and Speed",
         "ja": "世界最高水準の高速かつ正確な通訳",
