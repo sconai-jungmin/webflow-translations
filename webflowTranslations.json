@@ -220,7 +220,7 @@
         "en": "SconAI is always open. Feel free to contact us anytime about service integration or collaboration.",
         "zh": "SconAI始终欢迎您的联系。如有关于服务接入或合作的疑问，欢迎随时咨询。",
         "ja": "SconAIはいつでも皆さまをお待ちしています。導入や連携についてのご相談は、お気軽にお問い合わせください。"
-        },
+    },
     "contact.form.how.acquainted": {
         "en": "How You Found Us",
         "ja": "流入経路",
@@ -230,13 +230,13 @@
     "contact.form.message": {
         "en": "Message",
         "ja": "メッセージ",
-        "ko": "메세지",
+        "ko": "메시지",
         "zh": "留言"
     },
     "contact.form.message.placeholder": {
         "en": "Enter your message",
         "ja": "メッセージを入力してください",
-        "ko": "메세지를 적어주세요",
+        "ko": "메시지를 적어주세요",
         "zh": "请输入留言"
     },
     "contact.form.name": {
@@ -418,7 +418,7 @@
         "en": "Partners across industries worldwide are expanding their business with SconAI.",
         "zh": "全球各行业的合作伙伴正与SconAI携手拓展业务。",
         "ja": "世界中のさまざまな分野のパートナーが、SconAIと共にビジネスを広げています。"
-        },
+    },
     "home.slogan": {
         "en": "Don't let language limits\nbe your business limits",
         "ja": "言葉の壁がビジネスの限界にならないように。",
@@ -436,7 +436,7 @@
         "en": "At APEC 2025, SconChat enabled seamless communication for business executives and leaders.",
         "ja": "APEC 2025で、SconChatは各国の首脳やビジネスリーダーに言語の壁のないコミュニケーションを提供しました。",
         "zh": "在APEC 2025，SconChat为各国领导人和商业领袖提供了无语言障碍的交流体验。"
-},
+    },
     "home.title.business": {
         "en": "AI interpretation service ready for various business situations",
         "ja": "さまざまなビジネスシーンですぐに使えるAI同時通訳サービス",
@@ -460,7 +460,7 @@
         "en": "Experience AI interpretation with world-class accuracy and speed. Break language barriers and scale globally with SconAI’s next-level technology.",
         "zh": "以世界顶级的准确率与速度，提供AI同声传译服务。 借助SconAI革新级的翻译技术，跨越语言障碍，拓展全球业务。",
         "ja": "世界最高水準の正確さとスピードでAI同時通訳を提供します。 従来とは一線を画すSconAIの通訳技術で、言語の壁を越え、ビジネスをグローバルに広げましょう。"
-},
+    },
     "news.apec.jeju0917": {
         "en": "AI Interpretation Service SconChat Connects Global Startups at APEC Jeju Event",
         "ja": "APEC済州イベントでグローバルスタートアップをつなぐAI通訳サービス『SconChat』",
@@ -520,7 +520,7 @@
         "en": "Here’s the latest news from SconAI, connecting conversations around the world.",
         "zh": "持续连接全球沟通的SconAI，最新动态现已发布。",
         "ja": "今も世界中の会話をつなぐSconAIの最新情報をお届けします。"
-        },
+    },
     "news.view.article": {
         "en": "View full article",
         "ja": "記事全文を見る",
@@ -604,7 +604,7 @@
         "en": "Get the latest updates from SconAI.",
         "zh": "了解SconAI的最新动态。",
         "ja": "SconAIの最新情報をお届けします。"
-        },
+    },
     "sconai.news.expo0428": {
         "en": "Real-Time AI Interpretation ‘SconChat’ Adopted at the Korea Pavilion, Osaka Expo",
         "ja": "大阪・関西万博韓国館にリアルタイムAI通訳『SconChat』導入",
@@ -676,7 +676,7 @@
         "en": "SconAI is built by top-tier tech experts with proven experience in AI R&D and large-scale service development and operations.",
         "zh": "SconAI由顶尖科技公司出身的专家组成，拥有从AI研发到高并发服务开发与运营的丰富经验。",
         "ja": "SconAIは一流テック企業出身のメンバーで構成され、AIの研究開発から大規模トラフィックのサービス開発・運用まで豊富な経験を有しています。"
-        },
+    },
     "sconchat.3.x": {
         "en": "3×",
         "ja": "3倍",
@@ -732,10 +732,10 @@
         "zh": "亲自体验SconChat的性能。我们可以根据您的请求准备详细的产品演示。"
     },
     "sconchat.apec.event.support": {
-      "ko": "APEC CEO Summit 전 세션 AI 통역",
-      "en": "AI interpretation for all sessions at the APEC CEO Summit",
-      "ja": "APEC CEOサミット全セッションのAI通訳",
-      "zh": "APEC CEO峰会全场次AI翻译"
+        "ko": "APEC CEO Summit 전 세션 AI 통역",
+        "en": "AI interpretation for all sessions at the APEC CEO Summit",
+        "ja": "APEC CEOサミット全セッションのAI通訳",
+        "zh": "APEC CEO峰会全场次AI翻译"
     },
     "sconchat.apec.event.support.detail": {
         "en": "SconChat was the official AI interpretation service at the 2025 Gyeongju APEC CEO Summit, covering over 30 sessions including speeches by global leaders like Donald Trump · Lee Jaemyung · and NVIDIA CEO Jensen Huang. It is also widely used in global events such as Expo 2025 Osaka and in fields like law · finance · healthcare and education.",
@@ -744,10 +744,10 @@
         "zh": "SconChat被正式应用于2025年庆州APEC CEO峰会主会议的AI口译服务，为包括美国总统特朗普、韩国总统李在明、NVIDIA首席执行官黄仁勋在内的各国领导人和商业领袖的30多个演讲环节提供了官方口译服务。同时，它还广泛应用于2025大阪世博会韩国馆的官方口译，以及法律、金融、医疗、教育等高专业领域。"
     },
     "sconchat.apec.leaders.using": {
-      "ko": "전 세계 다양한 분야의 파트너들이 SconAI와 함께 비즈니스를 확장하고 있습니다.",
-      "en": "Partners from various industries around the world are growing their businesses with SconAI.",
-      "zh": "来自全球各行各业的合作伙伴正在与SconAI一起拓展业务。",
-      "ja": "世界中のさまざまな業界のパートナーがSconAIとともにビジネスを拡大しています。"
+        "ko": "전 세계 다양한 분야의 파트너들이 SconAI와 함께 비즈니스를 확장하고 있습니다.",
+        "en": "Partners from various industries around the world are growing their businesses with SconAI.",
+        "zh": "来自全球各行各业的合作伙伴正在与SconAI一起拓展业务。",
+        "ja": "世界中のさまざまな業界のパートナーがSconAIとともにビジネスを拡大しています。"
     },
     "sconchat.apec.manual": {
         "en": "Curious about usage or pricing?",
@@ -1582,13 +1582,13 @@
         "en": "Expert field interpreting",
         "zh": "专业领域口译",
         "ja": "専門分野の通訳"
-        },
+    },
     "tablet.expertise.detail": {
         "ko": "전문 용어와 맥락을 정확하게 이해하여, 금융, 법률, 학술, 의료 등 깊이 있는 전문 분야도 정확한 통역을 제공합니다.",
         "en": "We understand terminology and context to deliver accurate interpretation in fields like finance, law, academia, and healthcare.",
         "zh": "精准理解术语与语境，覆盖金融、法律、学术、医疗等专业领域，提供高质量口译。",
         "ja": "専門用語と文脈を的確に捉え、金融・法律・学術・医療などの分野でも正確な通訳を提供します。"
-        },
+    },
     "tablet.fastest": {
         "en": "World-Class Accuracy and Speed",
         "ja": "世界最高水準の高速かつ正確な通訳",
@@ -1606,14 +1606,13 @@
         "en": "Powerful context consistency",
         "zh": "强大的语境理解 · 保持一致性",
         "ja": "強力な文脈把握 · 一貫性のある出力"
-},
+    },
     "tablet.maintain.context.detail": {
         "ko": "정교하게 문맥을 파악하고 일관성을 유지하여, 정확하고 이해하기 쉬운 통역을 제공합니다.",
         "en": "We capture context precisely and maintain consistency to deliver accurate, easy-to-understand interpretation.",
         "zh": "精确把握语境，保持表达一致，提供准确易懂的口译服务。",
         "ja": "文脈を正確に捉え、一貫性を保つことで、分かりやすく正確な通訳を実現します。"
-        }
-,
+    },
     "tablet.multi.lateral.lingual": {
         "en": "Multilateral · Multilingual Simultaneous Interpretation",
         "ja": "多者・多言語同時通訳",
