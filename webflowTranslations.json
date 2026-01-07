@@ -281,6 +281,18 @@
         "ko": "제목을 적어주세요",
         "zh": "请输入标题"
     },
+        "contact.form.privacy": {
+        "en": "Consent to Collection and Use of Personal Information (Required)",
+        "ja": "個人情報の収集・利用への同意（必須）",
+        "ko": "개인정보 수집·이용 동의 (필수)",
+        "zh": "同意收集和使用个人信息（必填）"
+    },
+        "contact.form.privacy.detail": {
+    "en": "To provide smooth support, we collect your name, contact information, email, and inquiry details. Collected personal information will be retained for 5 years and then deleted.",
+    "ja": "円滑な対応のために、お名前、連絡先、メールアドレス、お問い合わせ内容を収集します。収集した個人情報は5年間保管した後、破棄されます。",
+    "ko": "원활한 상담을 위하여 이름, 연락처, 이메일, 문의 내용을 수집합니다. 수집된 개인정보는 5년간 보관 후 파기됩니다.",
+    "zh": "为了顺利提供咨询服务，我们会收集您的姓名、联系方式、电子邮箱和咨询内容。所收集的个人信息将保存5年后删除。"
+    },
     "expore.features": {
         "en": "Discover SconChat Features",
         "ja": "SconChatの機能を見る",
